@@ -1,0 +1,12 @@
+﻿  SnakeGame.cpp
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(39,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(39,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(55,37): warning C4099: std::vector<std::vector<char,std::allocator<char>>,std::allocator<std::vector<char,std::allocator<char>>>>: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(44,17): message : см. объявление "std::vector<std::vector<char,std::allocator<char>>,std::allocator<std::vector<char,std::allocator<char>>>>"
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(73,36): warning C4099: std::deque<coordinates,std::allocator<coordinates>>: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(73,8): message : см. объявление "std::deque<coordinates,std::allocator<coordinates>>"
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(112,43): warning C4099: std::vector<std::vector<char,std::allocator<char>>,std::allocator<std::vector<char,std::allocator<char>>>>: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(44,17): message : см. объявление "std::vector<std::vector<char,std::allocator<char>>,std::allocator<std::vector<char,std::allocator<char>>>>"
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(183,26): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\University\PP\SnakeGame\SnakeGame\SnakeGame.cpp(190,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  SnakeGame.vcxproj -> D:\University\PP\SnakeGame\x64\Debug\SnakeGame.exe
